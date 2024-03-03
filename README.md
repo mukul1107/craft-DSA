@@ -15,7 +15,7 @@ Welcome to the Problem Set Repository! This repository contains a collection of 
 
 Each problem is structured as follows:
 
-\`\`\`plaintext
+```js
 // Problem Name == ** Remove 'n'th Element ** from the array.
 
 // Given is an array 'nums' of 'k' elements where 'k' stands for the size of the array.
@@ -27,7 +27,7 @@ Each problem is structured as follows:
     // Task is to remove every nth space element from the array.
     // nums = [k , REMOVED, k , REMOVED, k , REMOVED, k, REMOVED, k, REMOVED]
 */
-\`\`\`
+```
 
 ## Contribution Guidelines:
 
